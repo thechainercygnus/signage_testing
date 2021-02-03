@@ -1,0 +1,1 @@
+![GitLab Actual Logo](gitlab.png)
